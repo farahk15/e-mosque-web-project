@@ -1,0 +1,21 @@
+
+.bodyContainer {
+    display: flex;
+    min-height: 100vh;
+    /* font-family: 'Droid Arabic Naskh';
+  font-style: 'normal'; */
+
+
+   
+}
+
+.LeftContainer {
+    display: flex;
+    flex-direction: column;
+    max-width: 70vw;
+    min-height: 100vh;
+    /* font-family: 'Droid Arabic Naskh';
+  font-style: 'normal'; */
+
+     
+}

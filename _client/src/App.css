@@ -1,0 +1,51 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  color: white;  
+  font-family: 'DROIDKUFI-BOLD';
+  font-style: 'normal'; 
+  
+}
+
+
+.background-image {
+  background-image: url('../public/default_backgrouind.jpg'); 
+  position: fixed;
+  /* opacity: 0.9; */
+  filter: brightness(90%);
+  background-color: black;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-color: white; */
+  font-family: 'DROIDKUFI-BOLD';
+  font-style: 'normal'; 
+  
+}
+
+.PrayersHeader {
+  display: flex;
+  padding: 0.5vw 3vw;
+  border-bottom: solid 1px white;
+  justify-content: space-between ;
+  font-family: 'DROIDKUFI-BOLD';
+  font-style: 'normal'; 
+  
+}
+
+.body {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'DROIDKUFI-BOLD';
+  font-style: 'normal'; 
+  
+}
+
+@font-face {
+  font-family: 'DROIDKUFI-BOLD';
+  src: url("./Droid Arabic Kufi Bold.ttf");
+}

@@ -1,0 +1,18 @@
+{
+ 
+      "CalculationMethod":  [
+          "MWL",
+          "ISNA",
+          "Egypt",
+          "Karachi",
+          "Tehran",
+          "Jafari"
+        ],      
+      "AsrJuristic": 
+        [
+          "Standard",
+          "Hanafi"
+        ]
+         
+
+}

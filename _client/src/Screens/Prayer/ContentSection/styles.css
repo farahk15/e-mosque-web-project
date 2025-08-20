@@ -1,0 +1,26 @@
+.mainContainer {
+ 
+    height:  78vh; 
+    min-width: 70vw;
+    
+}
+.ContentContainer-withoutMessage {
+    
+    min-height: 78vh;
+    width: 70vw;
+   
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ContentContainer-withMessage {
+    min-height: 64vh;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}

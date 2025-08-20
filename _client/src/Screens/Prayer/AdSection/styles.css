@@ -1,0 +1,14 @@
+.AdContainer {    
+    min-height: 10vh;
+    max-height: 15vh;
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size:  6vw;
+    font-weight: bold;
+    /* font-family: 'Droid Arabic Naskh';
+    font-style: 'normal'; */
+
+
+}

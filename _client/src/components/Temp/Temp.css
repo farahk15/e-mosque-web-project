@@ -1,0 +1,14 @@
+
+.TempContainer {
+    display: flex;    
+    padding-left: 20px;
+}
+
+.TempContainer p {
+    display: flex;
+    gap: 2vw; 
+    font-size: 3.75vw;
+    /*color: red;*/
+    
+}
+

@@ -1,0 +1,25 @@
+
+.bigIqamaContainer {
+
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 7vw;
+    color: green;
+    text-align: center;
+  
+
+    
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 7vw;
+    color: green;
+    text-align: center;   
+ 
+ 
+}

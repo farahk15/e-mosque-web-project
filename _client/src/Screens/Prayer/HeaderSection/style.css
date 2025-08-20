@@ -1,0 +1,15 @@
+
+.HeaderContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5vh;
+    align-items: center;    
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+
+    height: 9vh;
+    
+    border-bottom: 1px solid white;
+    /* font-family: 'Droid Arabic Naskh';
+  font-style: 'normal'; */
+}

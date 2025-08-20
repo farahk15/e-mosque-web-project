@@ -1,0 +1,4 @@
+@lxpanel --profile LXDE-pi  -bash  "/var/www/pi/check_chromium_process.sh"-show
+@pcmanfm --desktop --profile LXDE-pi
+@xscreensaver -no-splash
+@python /var/www/pi/run.py

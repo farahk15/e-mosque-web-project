@@ -1,0 +1,22 @@
+.EhdaaMarquee-container {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+.EhdaaMarquee {
+    white-space: nowrap;
+    animation: marquee linear infinite;
+    display: flex;
+    gap: 2vw;
+    align-items: center;
+    padding: 1vw;
+  }
+  
+@keyframes EhdaaMarquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }}
+  

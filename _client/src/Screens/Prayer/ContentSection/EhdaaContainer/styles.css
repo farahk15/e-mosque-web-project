@@ -1,0 +1,16 @@
+.EhdaaContainer {
+    
+    padding: 1.25vh;
+    max-height: 15vh;
+}
+.EhdaaText{
+    font-size: 3.25vw  ; 
+    font-weight: bold ;    
+    border-radius : 0.2vw ; 
+    border: 2px solid white;
+    padding: 1vh; 
+    
+    /* font-size:  6vw; */
+    /* font-weight: bold;    */
+    
+}

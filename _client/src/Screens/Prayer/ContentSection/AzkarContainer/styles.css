@@ -1,0 +1,57 @@
+#afterPrayersWindow {
+    font-family: Arial, sans-serif;
+    /* font-family: 'Droid Arabic Naskh';
+  font-style: 'normal'; */
+
+    text-align: center;
+  }
+  
+  #afterPrayerHeader {
+    font-size: 4vw;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .afterPrayerEl {
+    font-size: 5vw;
+   
+    margin: 1vw;
+    text-align: center;
+   
+    
+  }
+  
+  .subElement1 {
+    font-size: 1vw;
+  }
+
+  .azkar-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .azkar-image-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+    
+  .azkar-item-img {
+    width: 100%; 
+    max-height: 67vh; 
+    
+    
+  }
+  
+  
+  .azkar-item p {
+    margin-top: 10px;
+  }
+
+  .AzkarContainaer {
+    padding: 1vw;
+   
+    
+  
+  }
